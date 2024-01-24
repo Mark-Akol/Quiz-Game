@@ -4,7 +4,7 @@ This is a simple quiz game written in Python. It allows you to create your own q
 
 #### Features
 
-• Create quizzes with any number of questions
+• Create quizzes with any number of questions 
 • Add multiple choice answers to each question
 • Specify the correct answer for each question
 • Keep track of the player's score
